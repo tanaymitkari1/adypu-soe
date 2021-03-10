@@ -1,0 +1,68 @@
+.flex{
+  background-image: "https://adypu.edu.in/wp-content/themes/adypu/image/logo.png";
+  /* background-color: black; */
+  opacity: 0.5;
+}
+.pad{
+  margin:10%;
+}
+.card-body{
+  height: 170px;
+}
+.img{
+  width: 150px;
+}
+.pic{
+  height: 250px;
+  max-width: 250px;
+  margin: 25px;
+
+}
+.modal-content{
+  margin: 0 -50%;
+  width: 1000px;
+  justify-content: center;
+}
+.about-faculty{
+  margin-left: 0px;
+  margin-top: 25px;
+  padding: 10px;
+}
+.about-faculty p{
+  font-weight:bold ;
+  /* padding-bottom: 1px; */
+}
+.main-content{
+  font-size: 1.2em;
+  font-style: oblique;
+  font-weight: 450;
+}
+.col-8 .container{
+  padding: 40px;
+  background: 	#DCDCDC;
+  border-radius: 10px;
+  border-color: black;
+  border-width: medium;
+  box-shadow: 10px 10px 5px grey;
+}
+.faculty-info{
+  border-width: thick;
+  border-radius: 10px;
+  padding: 10px;
+  border-color: black;
+  /* box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2); */
+}
+.col-5 {
+  border-radius: 7px;
+  background-color: #DCDCDC;
+  margin-top: 11px;
+  text-align: justify;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+.col-6 h2{
+ margin-top: 50px;
+ font-size: bolder;
+ font-style: normal;
+ font-family: serif;
+}

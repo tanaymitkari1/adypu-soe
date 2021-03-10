@@ -1,0 +1,20 @@
+
+.flex{
+  background-image: "https://adypu.edu.in/wp-content/themes/adypu/image/logo.png";
+  /* background-color: black; */
+  opacity: 0.5;
+}
+.pad{
+  margin:10%;
+}
+.jumbotron{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 70px 0px 70px 0px;
+}
+.sub-content{
+  text-align: justify;
+}
+.img-fluid{
+  box-shadow: 10px 10px 5px;
+}

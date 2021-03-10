@@ -1,0 +1,43 @@
+.container{
+  margin-top: 50px;
+}
+
+.head{
+  font-size: 3em;
+  font-weight: bold;
+  color: #701e56;
+}
+
+.content{
+  font-size: 1.1em;
+  font-weight:400;
+  color: #701e56;
+  margin-top: 50px;
+}
+
+.subhead{
+  font-size: 2em;
+  font-weight: bold;
+  color:#f7941d;
+}
+hr{
+  width: 100%;
+  height: 1px;
+  background-color:#701e56;
+}
+.sub{
+  font-size: 1.5em;
+  font-weight: 400;;
+  font-style: italic;
+  color:#f7941d;
+}
+.eligibity{
+  font-size: 1.2em;
+  font-weight:bold;
+  color: #701e56;
+}
+.knowmore{
+  font-size: 1.2em;
+  font-weight:bold;
+  color: #01b8a4;
+}

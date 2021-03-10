@@ -1,0 +1,21 @@
+.custom-container{
+  margin: 50px;
+}
+.col-sm{
+  padding: 0px;
+  margin: 0px;
+}
+.btn-custom{
+  display: block;
+  width: 100%;
+}
+.ahead{
+  color: #753068;
+  font-weight: bold;
+}
+.sub-head{
+  color: #de6327;
+}
+.sh2{
+  font-weight: bold;
+}
